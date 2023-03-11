@@ -1,2 +1,2 @@
-# Cyripto-lottary
+# Cyrpto-lottary
  
